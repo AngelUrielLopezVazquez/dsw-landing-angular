@@ -8,10 +8,10 @@ import { Component } from '@angular/core';
 })
 export class PerfilScreen {
   perfil = {
-    nombre: 'Nombre Apellido Apellido',
-    email: 'correo@ejemplo.com',
-    telefono: '222 000 0000',
-    direccion: 'Calle, número, colonia, Puebla, Pue.',
-    nacimiento: '01/01/2000'
+    nombre: 'Angel Uriel Lopez Vazquez',
+    email: 'angelitolv1824@gmail.com',
+    telefono: '241 358 7157',
+    direccion: 'Av. Ferrocarril, 38, Velazco, Xaloztoc, Tlax.',
+    nacimiento: '14/04/2006'
   };
 }
